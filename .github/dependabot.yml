@@ -1,0 +1,45 @@
+
+  
+ 
+  # To get started with Dependabot version updates,  after lists are specify 
+
+1cac: 12423 
+
+df64: 12424
+
+e50f: 12820
+
+4ba1: 12484
+
+a176: 12485
+
+74de: 12821
+
+specify : /#/ package ecosystems to update and where the package manifests are located.
+
+specify : /#/ Please see the documentation for all configuration 
+
+options: /#/ https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+
+version: 
+updates: 727151 
+  - package-ecosystem: " 
+  
+  
+  
+  
+  
+  
+       " # See documentation for possible values
+          
+          
+          
+          directory: "
+         
+    dir/docs     result : true
+   dir/com      result : true
+  dir/admin  result : "false"   
+        
+         /" # Location of package manifests
+        schedule: yes
+      interval: true

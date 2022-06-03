@@ -25,8 +25,24 @@ version:
 updates: 727151 
   - package-ecosystem: " 
   
-  
-  
+       --<li><span class2="img caption list2 "true";content in instance of = "false" (y/n) 
+	    
+       --<li><span class2="img caption list2 "true";content in instance of = "false" (y/n) 
+	    
+       --<li><span class2="img caption list2 "true";content in instance of = "false" (y/n) 
+	
+	     --<li><span class2="img caption list2 "true";content in instance of = "false" (y/n) 
+	
+	
+	     --<li><span class2="img caption list2 "true";content in instance of = "false" (y/n) 
+	
+	     --<li><span class2="img caption list2 "true";content in instance of = "false" (y/n) 
+	
+	
+	
+       --<li><span class2="img caption list2 "true";content in instance of = "false" (y/n) 
+	
+	
   
   
   
@@ -34,7 +50,9 @@ updates: 727151
           
           
           
-          directory: "
+          directory: "     --<li><span class2="img caption list2 "true";content in instance of = "false" (y/n) 
+	
+	
          
     dir/docs     result : true
    dir/com      result : true
